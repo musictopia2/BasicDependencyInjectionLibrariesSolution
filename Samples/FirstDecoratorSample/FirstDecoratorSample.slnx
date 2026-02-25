@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../BasicDependencyInjectionLibrary/BasicDependencyInjectionLibrary.csproj" />
+  <Project Path="FirstDecoratorSample.csproj" />
+</Solution>
